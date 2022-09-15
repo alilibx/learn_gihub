@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-          color: Colors.white, child: const Text("HI My Name is Ali")),
+          color: Colors.white, child: const Text("HI My Name is Khalid")),
     );
   }
 }
